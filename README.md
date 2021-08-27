@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @famcodings
-- 👀 I’m interested in development.
+- 👀 I’m interested in software solutions development.
 - 🌱 I’m currently learning aws, node.js and more.
 
 <!---
